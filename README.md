@@ -11,9 +11,9 @@
 
 # ⚡ About Me
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&center=true&lines=Code.+Create.+Animate.;Designing+Futuristic+UI;Turning+Ideas+Into+Reality+🚀" />
-</p>
+</p> -->
 
 ```diff
  🔭 CURRENTLY WORKING ON
