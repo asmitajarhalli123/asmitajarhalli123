@@ -1,6 +1,6 @@
 <!-- 🌌 NEON CYBERPUNK HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+WELCOME+TO+MY+TECH+WORLD+⚡;Full+Stack+Developer;React+%7C+Angular+%7C+GSAP;Building+Futuristic+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+WELCOME+TO+MY+TECH+WORLD+⚡;MERN+Stack+Developer;React+%7C+Angular+%7C+GSAP;Building+Futuristic+Web+Apps+🚀" />
 </h1>
 
 <p align="center">
@@ -17,26 +17,19 @@
 
 ```diff
  🔭 CURRENTLY WORKING ON
- → Full-stack web apps
+ → MERN-stack web apps
  → HTML, CSS, JavaScript (React, Angular, GSAP)
 
  👯 COLLABORATING ON
  → Open-source projects
  → Frontend + Backend integration
 
- 🤝 NEED HELP WITH
- → Advanced backend architecture
- → Scaling full-stack applications
-
  🌱 LEARNING MODE
  → Attractive animated websites
  → Cloud (Firebase) & MernStack
  → Advanced JS & React
 
- 💬 ASK ME ABOUT
- → Frontend (HTML, CSS, JS)
- → UI Design & Mini Projects
-
+ 
 
  → I turn ideas into real-world web apps 🚀
 
